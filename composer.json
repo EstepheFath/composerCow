@@ -1,0 +1,16 @@
+{
+    "name": "composer/cow",
+    "autoload": {
+        "psr-4": {
+            "Composer\\Cow\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "estephe"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
